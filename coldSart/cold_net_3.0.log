@@ -1,0 +1,16 @@
+2019-01-09 17:54:35,251 - cold_net_ver3.0.py[line:229] - INFO: 0 epoch the train MAE 0.724492, RMSE 0.876481
+2019-01-09 17:54:39,813 - cold_net_ver3.0.py[line:233] - INFO: 0 epoch the test MAE 0.186309, RMSE 0.249674
+
+2019-01-09 18:50:54,860 - cold_net_ver3.0.py[line:229] - INFO: 1 epoch the train MAE 0.690037, RMSE 0.797405
+2019-01-09 18:50:59,296 - cold_net_ver3.0.py[line:233] - INFO: 1 epoch the test MAE 0.183921, RMSE 0.241587
+
+2019-01-09 19:47:15,939 - cold_net_ver3.0.py[line:229] - INFO: 2 epoch the train MAE 0.679161, RMSE 0.774148
+2019-01-09 19:47:20,388 - cold_net_ver3.0.py[line:233] - INFO: 2 epoch the test MAE 0.183305, RMSE 0.236858
+
+2019-01-09 20:43:39,109 - cold_net_ver3.0.py[line:229] - INFO: 3 epoch the train MAE 0.672906, RMSE 0.761531
+2019-01-09 20:43:43,554 - cold_net_ver3.0.py[line:233] - INFO: 3 epoch the test MAE 0.184890, RMSE 0.238761
+
+2019-01-09 22:31:10,762 - cold_net_ver3.0.py[line:229] - INFO: 0 epoch the train MAE 0.723168, RMSE 0.873760
+2019-01-09 22:31:15,544 - cold_net_ver3.0.py[line:233] - INFO: 0 epoch the test MAE 0.824664, RMSE 1.058307
+
+2019-01-09 23:26:25,710 - cold_net_ver3.0.py[line:229] - INFO: 1 epoch the train MAE 0.689474, RMSE 0.796066

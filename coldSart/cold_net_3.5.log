@@ -1,0 +1,6 @@
+2019-01-12 00:33:07,428 - cold_net_ver3.5.py[line:239] - INFO: 0 epoch the train MAE 0.727122, RMSE 0.889858
+2019-01-12 00:33:15,965 - cold_net_ver3.5.py[line:243] - INFO: 0 epoch the test MAE 0.981445, RMSE 1.469839
+
+2019-01-12 02:54:48,962 - cold_net_ver3.5.py[line:239] - INFO: 1 epoch the train MAE 0.685014, RMSE 0.790471
+2019-01-12 02:54:57,493 - cold_net_ver3.5.py[line:243] - INFO: 1 epoch the test MAE 0.894720, RMSE 1.322811
+
